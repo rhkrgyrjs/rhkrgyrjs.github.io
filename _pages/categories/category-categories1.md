@@ -1,9 +1,9 @@
 ---
-title: "Categories1"
+title: "CSAPP"
 layout: category
-permalink: /categories/categories1/
+permalink: /categories/CSAPP/
 author_profile: true
-taxonomy: Categories1
+taxonomy: CSAPP
 sidebar:
-  nav: "categories"
+  nav: "CSAPP"
 ---

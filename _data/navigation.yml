@@ -23,7 +23,7 @@ categories:
       - title: "CSAPP"
         url: /categories/CSAPP/
         
-  - title: "Data Structure"
+  - title: "fortestcategory"
     children:
       - title: "Theory"
-        url: /categories/DataStructure/
+        url: /categories/fortestcategory/

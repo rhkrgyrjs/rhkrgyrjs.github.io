@@ -23,5 +23,7 @@ categories:
       - title: "CSAPP"
         url: /categories/CSAPP/
         
-  - title: "Theory"
-      url: /categories/fortestcategory/
+  - title: "Data structure"
+    children:
+      - title: "이론"
+        url: /categories/data_structure/

@@ -1,5 +1,5 @@
 ---
-title: "Data structre"
+title: "Datastructre"
 layout: category
 permalink: /categories/ds/
 author_profile: true

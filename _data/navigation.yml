@@ -32,10 +32,7 @@ categories:
       - title: "Java"
         url: /categories/java/
 
-  - title: "Data structure"
-    children:
-      - title: "이론"
-        url: /categories/data_structure/
+ # - title: "Data structure ->> 여기에 자료구조 탭 만들기
         
   - title: "Algorithm"
     children:

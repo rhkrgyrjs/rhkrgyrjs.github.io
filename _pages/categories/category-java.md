@@ -1,9 +1,9 @@
 ---
-title: "Java"
+title: "Data structre"
 layout: category
-permalink: /categories/java/
+permalink: /categories/ds/
 author_profile: true
-taxonomy: Java
+taxonomy: ds
 sidebar:
-  nav: "Java"
+  nav: "ds"
 ---

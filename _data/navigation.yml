@@ -34,7 +34,7 @@ categories:
 
   - title: "Data structure"
     children:
-      - title: "Theory"
+      - title: "이론"
         url: /categories/datastructure/
         
   - title: "Algorithm"

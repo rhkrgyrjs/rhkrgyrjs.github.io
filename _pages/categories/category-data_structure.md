@@ -5,5 +5,5 @@ permalink: /categories/data_structure/
 author_profile: true
 taxonomy: Data_structure
 sidebar:
-  nav: "Data structure"
+  nav: "Data_structure"
 ---

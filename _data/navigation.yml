@@ -22,7 +22,8 @@ categories:
     children:
       - title: "CSAPP"
         url: /categories/CSAPP/
-  - title: "Data structure"
+        
+  - title: "asd"
     children:
-      - title: "이론"
+      - title: "asd"
         url: /categories/CSAPP/

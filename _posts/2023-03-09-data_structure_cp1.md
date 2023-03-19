@@ -7,7 +7,7 @@ categories:
 tags:
   - ["Data structure"]
 
-permalink: /data_structure/cp1/
+permalink: /data_structure/data_structure_cp1/
 
 toc: true
 toc_sticky: true

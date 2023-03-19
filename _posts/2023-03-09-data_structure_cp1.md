@@ -3,7 +3,7 @@ title: "[자료구조] 챕터1 정리"
 excerpt: "자료구조와 알고리즘"
 
 categories:
-  - CSAPP
+  - datastructure
 tags:
   - [datastructure]
 

@@ -22,21 +22,8 @@ categories:
     children:
       - title: "CSAPP"
         url: /categories/CSAPP/
-      - title: "Categories2"
-        url: /categories/categories2/
-      - title: "Categories3"
-        url: /categories/categories3/
-      - title: "Categories4"
-        url: /categories/categories4/
 
   - title: "Data Structure"
     children:
       - title: "theory"
         url: /categories/datastructure/
-      - title: "Categories6"
-        url: /categories/categories6/
-
-  - title: "Title3"
-    children:
-      - title: "Categories7"
-        url: /categories/categories7/

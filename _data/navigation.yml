@@ -25,8 +25,8 @@ categories:
 
   - title: "Data Structure"
     children:
-      - title: "Theory"
-        url: /categories/CSADD/
+      - title: "DataStructure"
+        url: /categories/DataStructure/
         
   - title: "etc"
     url: /categories/etc/

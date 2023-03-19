@@ -23,7 +23,5 @@ categories:
       - title: "CSAPP"
         url: /categories/CSAPP/
         
-  - title: "fortestcategory"
-    children:
-      - title: "Theory"
-        url: /categories/fortestcategory/
+  - title: "Theory"
+      url: /categories/fortestcategory/

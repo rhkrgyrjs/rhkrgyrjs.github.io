@@ -17,15 +17,24 @@ main:
 
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
-categories:
-  - title: "WEB"
+categories:categories:
+  - title: "Computer Architecture"
     children:
-    - title: "HTML"
-      url: /categories/html/
-    - title: "CSS"
-      url: /categories/css/
-    - title: "Javascript"
-      url: /categories/javascript/
-      
+      - title: "CSAPP"
+        url: /categories/CSAPP/
+
+  - title: "Data structure"
+    children:
+      - title: "Categories5"
+        url: /categories/categories5/
+      - title: "Categories6"
+        url: /categories/categories6/
+
+  - title: "Algotirhm"
+    children:
+      - title: "이론"
+        url: /categories/algorithm/
+      - title: "PS"
+        url: /categories/ps/
       
       

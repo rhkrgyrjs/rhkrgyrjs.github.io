@@ -34,6 +34,6 @@ categories:
 
   - title: "Data structure"
     children:
-      - title: "theory"
+      - title: "이론"
         url: /categories/data_structure/
       

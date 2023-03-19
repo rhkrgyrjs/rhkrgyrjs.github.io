@@ -23,11 +23,11 @@ categories:
       - title: "CSAPP"
         url: /categories/CSAPP/
 
-  - title: "Programming Language"
+  - title: "Data structure"
     children:
       - title: "C"
         url: /categories/c/
       - title: "C++"
         url: /categories/cpp/
-      - title: "Java"
-        url: /categories/java/
+      - title: "이론"
+        url: /categories/ds/

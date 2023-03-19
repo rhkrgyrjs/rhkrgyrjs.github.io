@@ -16,14 +16,26 @@ main:
   #   url: /categories/
 
 # sidebar navigation (categories)
-# 2022.02.15 sidebar update : simple ver.categories:categories:
-categories:
-  - title: "Computer Architecture"
+# 2022.02.15 sidebar update : simple ver.categories:categories:categories:
+  - title: "Title1"
     children:
       - title: "CSAPP"
         url: /categories/CSAPP/
-        
-  - title: "asd"
+      - title: "Categories2"
+        url: /categories/categories2/
+      - title: "Categories3"
+        url: /categories/categories3/
+      - title: "Categories4"
+        url: /categories/categories4/
+
+  - title: "Title2"
     children:
-      - title: "asd"
-        url: /categories/CSAPP/
+      - title: "Categories5"
+        url: /categories/categories5/
+      - title: "Categories6"
+        url: /categories/categories6/
+
+  - title: "Title3"
+    children:
+      - title: "Categories7"
+        url: /categories/categories7/

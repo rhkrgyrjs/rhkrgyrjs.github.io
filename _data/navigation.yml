@@ -17,6 +17,7 @@ main:
 
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.categories:categories:categories:
+categories:
   - title: "Title1"
     children:
       - title: "CSAPP"

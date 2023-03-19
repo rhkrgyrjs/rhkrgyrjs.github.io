@@ -34,46 +34,46 @@ categories:
 
   - title: "Data structure"
     children:
-      - title: "이론"
+      - title: "theory"
         url: /categories/data_structure/
         
-  - title: "Algorithm"
-    children:
-      - title: "이론"
-        url: /categories/algorithm/
-      - title: "PS"
-        url: /categories/ps/
+  #- title: "Algorithm"
+   # children:
+     # - title: "이론"
+      #  url: /categories/algorithm/
+     # - title: "PS"
+     #   url: /categories/ps/
         
-  - title: "OS"
-    children:
-      - title: "이론"
-        url: /categories/os/
+ # - title: "OS"
+  #  children:
+    #  - title: "이론"
+     #   url: /categories/os/
         
-  - title: "Network"
-    children:
-      - title: "이론"
-        url: /categories/network/
-      - title: "TCP/IP"
-        url: /categories/tcpip/
+ # - title: "Network"
+ #   children:
+    #  - title: "이론"
+    #    url: /categories/network/
+    #  - title: "TCP/IP"
+     #   url: /categories/tcpip/
         
-  - title: "Database"
-    children:
-      - title: "이론"
-        url: /categories/database/
-      - title: "SQL"
-        url: /categories/sql/
+ # - title: "Database"
+  #  children:
+   #   - title: "이론"
+    #    url: /categories/database/
+    #  - title: "SQL"
+    #    url: /categories/sql/
         
-  - title: "WEB"
-    children:
-      - title: "HTML"
-        url: /categories/html/
-      - title: "CSS"
-        url: /categories/css/
-      - title: "javascript"
-        url: /categories/javascript/
+#  - title: "WEB"
+  #  children:
+  #    - title: "HTML"
+   #     url: /categories/html/
+   #   - title: "CSS"
+    #    url: /categories/css/
+  #    - title: "javascript"
+  #      url: /categories/javascript/
         
-  - title: "etc"
-    url: /categories/etc/
+ # - title: "etc"
+  #  url: /categories/etc/
         
    
         

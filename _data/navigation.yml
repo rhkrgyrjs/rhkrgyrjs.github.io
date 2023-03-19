@@ -36,4 +36,43 @@ categories:
     children:
       - title: "이론"
         url: /categories/data_structure/
+        
+        
+  - title: "Algorithm"
+    children:
+      - title: "이론"
+        url: /categories/algorithm/
+      - title: "PS"
+        url: /categories/ps/
+        
+  - title: "OS"
+    children:
+      - title: "이론"
+        url: /categories/os/
+        
+  - title: "Network"
+    children:
+      - title: "이론"
+        url: /categories/network/
+      - title: "TCP/IP"
+        url: /categories/tcpip/
+        
+  - title: "Database"
+    children:
+      - title: "이론"
+        url: /categories/database/
+      - title: "SQL"
+        url: /categories/sql/
+        
+  - title: "WEB"
+    children:
+      - title: "HTML"
+        url: /categories/html/
+      - title: "CSS"
+        url: /categories/css/
+      - title: "javascript"
+        url: /categories/javascript/
+        
+        
+     
       

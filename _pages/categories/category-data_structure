@@ -1,0 +1,7 @@
+title: "Data_structure"
+layout: category
+permalink: /categories/data_structure/ # url
+author_profile: true
+taxonomy: data_structure
+sidebar:
+nav: "data_structure"

@@ -27,3 +27,6 @@ categories:
     children:
       - title: "theory"
         url: /categories/datastructure/
+        
+  - title: "etc"
+    url: /categories/etc/

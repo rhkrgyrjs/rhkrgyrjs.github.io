@@ -18,20 +18,20 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Comupter Architecture"
-    children:
+#  - title: "Comupter Architecture"
+  #  children:
       - title: "CSAPP"
         url: /categories/CSAPP"
-  - title: "Programming Language"
-    children:
+ # - title: "Programming Language"
+   # children:
       - title: "C"
         url: /categories/c/
       - title: "C++"
         url: /categories/cpp/
       - title: "Java"
         url: categories/java/
-  - title: "Algorithm"
-    children:
+ # - title: "Algorithm"
+   # children:
       - title: "이론"
          url: /categories/algorithm/
       - title: "PS"
@@ -40,20 +40,20 @@ categories:
     url: /categories/data_structure/
   - title: "OS"
     url: /categories/os/
-  - title: "Network"
-    children:
+ # - title: "Network"
+   # children:
       - title: "이론"
         url: /categories/network/
       - title: "TCP/IP"
         url: /categories/tcpip/
-  - title: "Database"
-    children:
+ # - title: "Database"
+ #   children:
       - title: "이론"
         url: /categories/database/
       - title: "SQL"
         url: /categories/sql/
-  - title: "WEB"
-    children:
+#  - title: "WEB"
+ #   children:
       - title: "HTML"
         url: /categories/html/
       - title: "CSS"

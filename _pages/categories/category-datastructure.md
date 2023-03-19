@@ -1,9 +1,9 @@
 ---
-title: "data_structure"
+title: "datastructure"
 layout: category
-permalink: /categories/data_structure/
+permalink: /categories/datastructure/
 author_profile: true
-taxonomy: data_structure
+taxonomy: datastructure
 sidebar:
-  nav: "data_structure"
+  nav: "datastructure"
 ---

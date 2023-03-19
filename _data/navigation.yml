@@ -30,10 +30,10 @@ categories:
       - title: "C++"
         url: /categories/cpp/
       - title: "Java"
-        url: /categories/java
+        url: /categories/java/
 
   - title: "Data structure"
     children:
-      - title: "이론"
+      - title: "theory"
         url: /categories/data_structure/
       

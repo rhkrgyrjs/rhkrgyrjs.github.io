@@ -31,8 +31,3 @@ categories:
         url: /categories/cpp/
       - title: "Java"
         url: /categories/java/
-
-  - title: "Data structure"
-    children:
-      - title: "theory"
-        url: /categories/data_structure/

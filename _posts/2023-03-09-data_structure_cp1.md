@@ -3,11 +3,11 @@ title: "[자료구조] 챕터1 정리"
 excerpt: "자료구조와 알고리즘"
 
 categories:
-  - data_structure
+  - datastructure
 tags:
   - [data_structure]
 
-permalink: /data_structure/cp1/
+permalink: /datastructure/cp1/
 
 toc: true
 toc_sticky: true

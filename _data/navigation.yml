@@ -33,9 +33,8 @@ categories:
         url: /categories/java/
 
   - title: "Data structure"
-    children:
-      - title: "이론"
-        url: /categories/datastructure/
+    - title: "이론"
+      url: /categories/datastructure/
         
   - title: "Algorithm"
     children:

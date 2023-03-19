@@ -25,7 +25,7 @@ categories:
 
   - title: "Data Structure"
     children:
-      - title: "이론"
+      - title: "Theory"
         url: /categories/CSADD/
         
   - title: "etc"

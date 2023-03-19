@@ -18,7 +18,7 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.categories:categories:categories:
 categories:
-  - title: "Title1"
+  - title: "Computer Architecture"
     children:
       - title: "CSAPP"
         url: /categories/CSAPP/
@@ -29,10 +29,10 @@ categories:
       - title: "Categories4"
         url: /categories/categories4/
 
-  - title: "Title2"
+  - title: "Data Structure"
     children:
-      - title: "Categories5"
-        url: /categories/categories5/
+      - title: "theory"
+        url: /categories/datastructure/
       - title: "Categories6"
         url: /categories/categories6/
 

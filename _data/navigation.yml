@@ -37,7 +37,6 @@ categories:
       - title: "이론"
         url: /categories/data_structure/
         
-        
   - title: "Algorithm"
     children:
       - title: "이론"

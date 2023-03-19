@@ -5,7 +5,7 @@ excerpt: "자료구조와 알고리즘"
 categories:
   - Data_structure
 tags:
-  - ["Data structure]
+  - ["Data structure"]
 
 permalink: /data_structure/cp1/
 

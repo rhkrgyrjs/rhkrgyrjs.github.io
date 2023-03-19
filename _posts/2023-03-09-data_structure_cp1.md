@@ -12,8 +12,8 @@ permalink: /data_structure/data_structure_cp1/
 toc: true
 toc_sticky: true
 
-date: 2023-03-09
-last_modified_at: 2023-03-09
+date: 2023-03-10
+last_modified_at: 2023-03-10
 ---
 
 

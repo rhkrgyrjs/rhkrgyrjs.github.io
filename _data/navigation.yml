@@ -23,10 +23,45 @@ categories:
       - title: "CSAPP"
         url: /categories/CSAPP/
 
+  - title: "Programming Language"
+    children:
+      - title: "C"
+        url: /categories/C/
+      - title: "Java"
+        url: /categories/Java/
+      - title: "Cpp"
+        url: categories/Cpp/
+        
   - title: "Data Structure"
     children:
       - title: "DataStructure"
         url: /categories/DataStructure/
+      
+  - title: "Algorithm"
+    children:
+      - title: "Algorithm"
+        url: /categories/Algorithm/
+        
+  - title: "OS"
+    children:
+      - title: "OS"
+        url: /categories/OS/
+        
+  - title: "Network"
+    children:
+      - title: "Network"
+        url: /categories/Network/
+      - title: "TCP_IP"
+        url: /categories/TCP_IP/
+        
+  - title: "WEB"
+    children:
+      - title: "HTML"
+        url: /categories/HTML/
+      - title: "CSS"
+        url: /categories/CSS/
+      - title: "Javascript"
+        url: /categories/Javascript/
         
   - title: "etc"
     url: /categories/etc/
